@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MeuBolso</string>
+    <string name="title_activity_main">MeuBolso</string>
+    <string name="package_name">com.nexusdev.meubolso</string>
+    <string name="custom_url_scheme">com.nexusdev.meubolso</string>
+</resources>
